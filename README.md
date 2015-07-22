@@ -15,12 +15,12 @@ Project still in development. Please follow this [link](http://mockupruby.heroku
 Donec porttitor lorem sagittis auctor **pretium**
 
 ### Crazy good software
-- Rapid development
-- 24/7 support
+- Etiam pulvinar sollicitudun
+- Etiam pulvinar sollicitudun
 
-### Reasons to choose us
-1. Price
-2. Precision
-3. Performance
+### Product Value
+1. Etiam pulvinar sollicitudun
+2. Etiam pulvinar sollicitudun
+3. Etiam pulvinar sollicitudun
 
-This is what Ruby code would look like `puts 'Hello World'`
+Code sample `puts 'Hello World'`
