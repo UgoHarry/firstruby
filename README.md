@@ -1,12 +1,12 @@
 Mockup Ruby App
 ===============
 
-Powerful software 
+Sample README 
 -----------------
 
-### Welcome to the repository
+### Welcome to my first Ruby project
 
-Feel free to access [my portfolio](https://github.com/UgoHarry/firstruby).
+Project still in development. Please follow this [link](http://mockupruby.herokuapp.com/) to find the live project
 
 > ## Etiam pulvinar sollicitudun
 >
